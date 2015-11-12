@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = vif_plug_midonet
+omit = tests/*,vif_plug_midonet/openstack/*
+
+[report]
+ignore-errors = True
